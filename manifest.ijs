@@ -12,7 +12,7 @@ LABCATEGORY=: 'Stats'
 
 VERSION=: '1.0.0'
 
-RELEASE=: 'j602'
+RELEASE=: 'j602 701'
 
 FILES=: 0 : 0
 history.txt
