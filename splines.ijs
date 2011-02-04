@@ -1,12 +1,10 @@
-NB. built from project: ~Addons/stats/rlibrary/splines/splines
-NB. splines init
+NB. init
 
 coclass 'Rsplines'
-
+NB. splines init
 
 require 'stats/r/rserve'
 coinsert 'rbase'
-
 NB. bs
 NB.
 NB. bs  - B-Spline Basis for Polynomial Splines
@@ -34,4 +32,3 @@ catcht.
 end.
 res
 )
-
