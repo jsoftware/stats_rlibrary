@@ -20,7 +20,7 @@ try.
   nms rdset val
   res=. rdget cmd
 catcht.
-  wdinfo 'Splines Library';throwtext_rserve_
+  sminfo 'Splines Library';throwtext_rserve_
   res=. _1
 end.
 res
