@@ -21,3 +21,4 @@ splines.ijs
 test_splines.ijs
 )
 
+PLATFORMS=: 'linux win darwin android'
