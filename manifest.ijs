@@ -10,9 +10,9 @@ For more information, see wiki page http://www.jsoftware.com/jwiki/Interfaces/R/
 
 LABCATEGORY=: 'Stats'
 
-VERSION=: '1.0.3'
+VERSION=: '1.0.4'
 
-RELEASE=: 'j802'
+RELEASE=: 'j802 j803'
 
 FILES=: 0 : 0
 history.txt
@@ -20,4 +20,3 @@ readme.txt
 splines.ijs
 test_splines.ijs
 )
-
