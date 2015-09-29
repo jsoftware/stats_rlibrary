@@ -5,7 +5,7 @@ CAPTION=: 'R library using Rserve interface'
 DESCRIPTION=: 0 : 0
 This addon supports various R libraries using the Rserve interface.
 
-For more information, see wiki page http://www.jsoftware.com/jwiki/Interfaces/R/Rserve/Library.
+For more information, see wiki page http://code.jsoftware.com/wiki/Interfaces/R/Rserve/Library.
 )
 
 LABCATEGORY=: 'Stats'
