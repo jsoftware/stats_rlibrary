@@ -10,9 +10,9 @@ For more information, see wiki page http://code.jsoftware.com/wiki/Interfaces/R/
 
 LABCATEGORY=: 'Stats'
 
-VERSION=: '1.0.6'
+VERSION=: '1.0.7'
 
-RELEASE=: 'j802 j803 j804 j805'
+RELEASE=: 'j802 j803 j804 j805 j806'
 
 FILES=: 0 : 0
 history.txt
