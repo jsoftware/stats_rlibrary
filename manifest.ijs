@@ -12,7 +12,9 @@ LABCATEGORY=: 'Stats'
 
 VERSION=: '1.0.8'
 
-RELEASE=: 'j802 j803 j804 j805 j806 j807'
+RELEASE=: ''
+
+FOLDER=: 'stats/rlibrary'
 
 FILES=: 0 : 0
 history.txt
